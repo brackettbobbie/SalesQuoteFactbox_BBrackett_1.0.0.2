@@ -1,0 +1,25 @@
+{
+  "id": "8d157f01-413f-4029-9486-5c5799d1e00c",
+  "name": "SalesQuoteFactbox",
+  "publisher": "BBrackett",
+  "version": "1.0.0.2",
+  "runtime": "11.0",
+  "target": "Cloud",
+  "application": "22.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
